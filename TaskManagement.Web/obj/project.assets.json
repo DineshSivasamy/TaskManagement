@@ -12578,18 +12578,18 @@
     },
     "Model/1.0.0": {
       "type": "project",
-      "path": "../../JiraBoard/Model/Model.csproj",
-      "msbuildProject": "../../JiraBoard/Model/Model.csproj"
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     },
     "Repository/1.0.0": {
       "type": "project",
-      "path": "../../JiraBoard/Repository/Repository.csproj",
-      "msbuildProject": "../../JiraBoard/Repository/Repository.csproj"
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
     },
     "Services/1.0.0": {
       "type": "project",
-      "path": "../../JiraBoard/Services/Services.csproj",
-      "msbuildProject": "../../JiraBoard/Services/Services.csproj"
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12633,14 +12633,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Model\\Model.csproj"
+            "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Model\\Model.csproj"
             },
-            "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Repository\\Repository.csproj"
+            "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\JiraBoard\\Services\\Services.csproj"
+            "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\sidinesh\\source\\repos\\TaskManagement\\Services\\Services.csproj"
             }
           }
         }
